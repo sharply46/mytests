@@ -6,7 +6,7 @@
  *
  * @package Tiberiu_Deliceanu
  */
-
+//fghfg
 get_header(); ?>
 
 	<div id="primary" class="content-area">
