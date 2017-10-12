@@ -13,6 +13,7 @@
 //test
 //test2
 //asda
+//fix
 get_header(); ?>
 
 	<div id="primary" class="content-area">
