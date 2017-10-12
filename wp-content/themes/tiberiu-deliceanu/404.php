@@ -7,13 +7,7 @@
  * @package Tiberiu_Deliceanu
  */
 
-//test   23113
-// asdasdas
-//another test
-//asdsad
-//merge
-//master
-//master2
+
 get_header(); ?>
 
 	<div id="primary" class="content-area">
