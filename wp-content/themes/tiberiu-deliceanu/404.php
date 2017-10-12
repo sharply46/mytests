@@ -10,6 +10,7 @@
 //master
 //asd
 //asdajs
+//test
 get_header(); ?>
 
 	<div id="primary" class="content-area">
