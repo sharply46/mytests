@@ -6,6 +6,8 @@
  *
  * @package Tiberiu_Deliceanu
  */
+
+//test   23113
 get_header(); ?>
 
 	<div id="primary" class="content-area">
