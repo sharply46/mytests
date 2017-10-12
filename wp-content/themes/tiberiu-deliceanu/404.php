@@ -6,7 +6,7 @@
  *
  * @package Tiberiu_Deliceanu
  */
-test
+test 2
 get_header(); ?>
 
 	<div id="primary" class="content-area">
