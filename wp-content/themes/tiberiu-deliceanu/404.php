@@ -6,7 +6,6 @@
  *
  * @package Tiberiu_Deliceanu
  */
-test 233 teasdasd
 get_header(); ?>
 
 	<div id="primary" class="content-area">
