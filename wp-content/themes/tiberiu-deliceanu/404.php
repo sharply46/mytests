@@ -12,8 +12,8 @@
 //another test
 //asdsad
 //merge
-//asda
-//asdasd
+//master
+//master2
 get_header(); ?>
 
 	<div id="primary" class="content-area">
