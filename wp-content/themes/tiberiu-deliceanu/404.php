@@ -12,7 +12,7 @@
 //asdajs
 //test
 //test2
-//dev
+//asda
 get_header(); ?>
 
 	<div id="primary" class="content-area">
