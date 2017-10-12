@@ -11,6 +11,7 @@
 //asd
 //asdajs
 //test
+//test2
 get_header(); ?>
 
 	<div id="primary" class="content-area">
